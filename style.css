@@ -22,7 +22,7 @@ body {
 .lists > li {
     float: left;
     width: 25%;
-    background-color: #EEE;
+    background-color: rgb(186, 187, 248);
     border-top: 2px #CCC solid;
     border-right: 2px #CCC solid;
     font-size: 20px;
